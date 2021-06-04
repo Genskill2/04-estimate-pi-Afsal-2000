@@ -23,7 +23,6 @@ int main(void) {
     }
   }
 }
-
 float wallis_pi(int n) {
 	float num,den,temp,pi=0;
 	
@@ -42,6 +41,5 @@ float wallis_pi(int n) {
      	}
     pi=pi*2;
     return pi;
-  	
 }
     
