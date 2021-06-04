@@ -32,7 +32,7 @@ float wallis_pi(int n){
   	
   	while(1<=n)
   	{
-  	x = (8n^2) / (4n^2 - 1);
+  	x = (8*n^2) / (4*n^2 - 1);
   	y = y+x;
   	
   			}
