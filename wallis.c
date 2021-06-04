@@ -24,3 +24,20 @@ int main(void) {
   }
 }
 
+float wallis_pi(int n){
+  	
+  	int x;
+  	int y ;
+  
+  	
+  	while(1<=n)
+  	{
+  	x = (8n^2) / (4n^2 - 1);
+  	y = y+x;
+  	
+  			}
+ 
+  return y;
+  	
+}
+    
